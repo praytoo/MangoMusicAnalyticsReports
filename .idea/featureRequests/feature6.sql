@@ -1,0 +1,1 @@
+Feature Description: Create a report showing the top 20 artists ranked by total album plays. This helps artist relations team know which artists are most valuable to our platform.
